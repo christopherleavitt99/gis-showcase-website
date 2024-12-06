@@ -69,6 +69,7 @@ button:focus-visible {
 
 .card {
   padding: 2em;
+  width: 50%;
 }
 .card img {
   width: 100%;
