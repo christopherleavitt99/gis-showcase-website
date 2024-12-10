@@ -70,8 +70,7 @@ button:focus-visible {
 .card {
   padding: 2em;
   width: 500px;
-  border: #1a1a1a solid 1px;
-  border-color: #1a1a1a;
+  
 }
 .card img {
   width: 100%;
