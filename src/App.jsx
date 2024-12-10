@@ -1,4 +1,5 @@
  import "./index.css"
+ import "./images"
 
 
 export default function App() {
