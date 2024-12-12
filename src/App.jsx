@@ -1,5 +1,4 @@
  import "./index.css"
-import "./next.config.js"
 
 export default function App() {
 
