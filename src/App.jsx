@@ -34,13 +34,13 @@ export default function App() {
       </div>
       <div className="card" >
         <a href="https://byui.maps.arcgis.com/apps/dashboards/4f9f7a6f3f73476aa90c086044cfe698" >
-          <img src={"/images/sporiquad.png"} />
+          <img src={'./images/sporiquad.png'} />
         <h2>Spori Quad</h2>
         </a>
       </div>
       <div className="card" >
         <a href="https://byui.maps.arcgis.com/apps/mapviewer/index.html?webmap=e2ac83e9d43f4049828453692e7619f8" >
-          <img src={"./images/templesheat.png"} />
+          <img src={'./images/templesheat.png'} />
         <h2>Temples</h2>
         </a>
       </div>
