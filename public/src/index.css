@@ -55,6 +55,7 @@ h1 {
 .card {
   padding: 2em;
   width: 500px;
+  grid-row: 1;
   
 }
 .card img {
