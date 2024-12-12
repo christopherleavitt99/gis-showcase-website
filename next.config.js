@@ -1,5 +1,5 @@
 export default {
-    images: {
+    imgs: {
       localPatterns: [
         {
           pathname: './images/**',
