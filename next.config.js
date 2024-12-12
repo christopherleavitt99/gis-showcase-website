@@ -1,12 +1,12 @@
-// import module from 'next-images'
+import module from 'next-images'
 
-// module.exports = {
-//   images: {
-//     localPatterns: [
-//       {
-//         pathname: './images/**',
-//         search: '',
-//       },
-//     ],
-//   },
-// };
+module.exports = {
+  images: {
+    localPatterns: [
+      {
+        pathname: './images/**',
+        search: '',
+      },
+    ],
+  },
+};
