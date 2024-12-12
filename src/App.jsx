@@ -9,7 +9,7 @@ export default function App() {
     </div>
       <div className="card">
         <a href="https://byui.maps.arcgis.com/apps/mapviewer/index.html?webmap=d34bc28ab9df48e5bd04a3c872345693" >
-          <img src="./images/byuibuildings.png" />
+          <img src={"./images/byuibuildings.png"} />
           <h2>Byui Buildings</h2>
           </a>
         </div>
@@ -33,7 +33,7 @@ export default function App() {
       </div>
       <div className="card" >
         <a href="https://byui.maps.arcgis.com/apps/dashboards/4f9f7a6f3f73476aa90c086044cfe698" >
-          <img src="./images/sporiquad.png" />
+          <img src={"./images/sporiquad.png"} />
         <h2>Spori Quad</h2>
         </a>
       </div>
@@ -73,11 +73,6 @@ export default function App() {
         <h2>Does temperature impact the population?</h2>
         </a>
       </div>
-      {/* 
-
-
-Does temperature impact the population?
-https://storymaps.arcgis.com/stories/5354f489ac2e429aaf7f3595a9ca5919 */}
 
     </>
   )
