@@ -1,18 +1,7 @@
-// import module from 'next-images'
 import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react-swc'
+import react from '@vitejs/plugin-react'
 
-// https://vitejs.dev/config/
+// https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
 })
-// module.exports = {
-//   images: {
-//     localPatterns: [
-//       {
-//         pathname: './images/**',
-//         search: '',
-//       },
-//     ],
-//   },
-// };
