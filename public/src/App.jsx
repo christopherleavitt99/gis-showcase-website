@@ -7,6 +7,7 @@ export default function App() {
     <div className="Title">
       <h1>Chris Leavitt GIS Showcase</h1>
     </div>
+    <div id="body">
       <div className="card">
         <a href="https://byui.maps.arcgis.com/apps/mapviewer/index.html?webmap=d34bc28ab9df48e5bd04a3c872345693" >
           <img src={"./images/byuibuildings.png"} />
@@ -73,7 +74,7 @@ export default function App() {
         <h2>Does temperature impact the population?</h2>
         </a>
       </div>
-
+      </div>
     </>
   )
 }
